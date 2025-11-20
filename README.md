@@ -2,7 +2,7 @@
 
 This repository contains the code and experiments for the paper:
 
-> Causal Sentiment Mining under Noisy Streams via Lightweight Attention  
+> Attention Enhanced BiLSTM for Causal Sentiment Mining in Noisy Social Media Streams
 > Miloud Mihoubi, Meriem Zerkouk, Belkacem Chikhaoui, 2025.
 
 ## Overview
